@@ -181,7 +181,12 @@ In real work and in interviews, you will often lack complete information. When t
 ### 🏴‍☠️ Problem 1: Screwy Pirates / 海盗分金币
 
 **Question / 题目:**  
-Five pirates looted 100 gold coins. They vote on distribution proposals by the most senior pirate. If ≥50% agree, coins are split as proposed; otherwise the senior pirate is fed to sharks and the process repeats. Pirates prioritize: (1) survival, (2) maximum gold, (3) fewest pirates on boat.
+Five pirates looted 100 gold coins. The most senior pirate will propose a distribution of the coins. All pirates, including the
+most senior pirate, will then vote. If at least 50% of the pirates (3 pirates in this case)
+accept the proposal, the gold is divided as proposed. If not, the most senior pirate will be
+fed to shark and the process starts over with the next most senior pirate ... The process is
+repeated until a plan is approved. You can assume that all pirates are perfectly rational:
+Pirates prioritize: (1) survival, (2) maximum gold, (3) fewest pirates on boat. How will the gold coins be divided in the end?
 
 五个海盗抢了100枚金币。由资历最高的海盗提出分配方案并投票。若≥50%同意，按方案分配；否则该海盗被扔给鲨鱼，下一个海盗接管。海盗的优先级：(1)活命，(2)金币最多，(3)船上人越少越好。
 
