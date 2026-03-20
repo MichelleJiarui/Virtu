@@ -1,4 +1,4 @@
-[\](https://jobs.ebayinc.com/us/en/job/R0070834/Cloud-Platform-Security-Engineer)
+https://www.efinancialcareers.ie/jobs-Ireland-Dublin-Operations_Analyst_Trade_Support.id23433204
 
 Before I give you a number — what's the range eBay has in mind for this role?
 中文
