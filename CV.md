@@ -14,6 +14,12 @@ Now I understand — you want me to **reformat your existing eBay stories** to f
 
 ---
 
+### English(tell me something that not in the cx)
+I'm someone who can't leave a messy process alone.
+At AWS, we had a chaotic on-call system — cases coming in, alerts going to the wrong person, things getting missed. Everyone worked around it. I built a fix — automated the whole routing through Slack so nothing fell through the gap. Nobody asked me to. I just saw the problem and couldn't ignore it.
+That's how I work. I notice the thing that's slightly off, and I want to sort it out.
+That's why operations at Virtu appeals to me. Reconciliation, settlement, making sure everything ties — that's exactly the kind of environment where that instinct is actually useful.
+
 ### English
 
 I've spent the last three and a half years at AWS working in a fast-paced, time-critical environment — when something in a complex system breaks and nobody knows why, I'm the one who goes in, traces it layer by layer, and finds the root cause.
