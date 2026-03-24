@@ -1,4 +1,5 @@
 https://tradermath.org/brainteasers/essentials
+https://brainstellar.com/puzzles/easy/1
 
 # 📗 A Practical Guide to Quantitative Finance Interviews
 ## Chapters 1 & 2 — Complete Bilingual Study Guide
