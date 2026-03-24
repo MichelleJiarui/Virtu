@@ -2,6 +2,17 @@ https://www.efinancialcareers.ie/jobs-Ireland-Dublin-Operations_Analyst_Trade_Su
 
 Now I understand — you want me to **reformat your existing eBay stories** to fit the Virtu Operations Analyst role. Let me retranslate each story into Virtu's language.
 
+### Virtu Financial · Operations Analyst (Trade Support)
+She started the interview by telling that I did quite well in the coding examination (but as usual, refused to tell me what my score was). She then asked me generally HR questions (why Virtu, why quant), asked me (out of the blue!) what market making was in my own words and a couple of brain-teasers, which went (paraphrased from memory) like this:
+
+* What is the angle between the minute and hour hand of a clock at 5:15 PM?
+* Follow-up: at what time would the minute and hour hand of a clock coincide after 5 PM?
+I finished them off quickly and correctly (in about 30 seconds). And that was the interview - fairly short and ended in ~15 minutes.
+
+The answers to the brainteasers:
+For the main question, let 0 degrees be the number 12 of the clock. Then, the minute hand would be 90° from the number 12. The hour hand would be 150 + (30/4) = 157.5°. The difference is hence |157.5°-90°|=67.5°
+For the follow-up, let x be the minute. Then we need to find the angle subtended by the hour hand - from the first part, this is (150 + (30)x/60)°. The angle subtended by the minute hand is simply (6x)°. Solve for x: 150 + x/2 = 6x -> 150 = 11x/2 -> x = 300/11. The answer can be shown to be somewhere between 5:27 and 5:28 PM.
+
 ---
 
 # Virtu Financial · Operations Analyst (Trade Support)
