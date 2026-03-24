@@ -6,6 +6,7 @@ Now I understand — you want me to **reformat your existing eBay stories** to f
 She started the interview by telling that I did quite well in the coding examination (but as usual, refused to tell me what my score was). She then asked me generally HR questions (why Virtu, why quant), asked me (out of the blue!) what market making was in my own words and a couple of brain-teasers, which went (paraphrased from memory) like this:
 
 * What is the angle between the minute and hour hand of a clock at 5:15 PM?
+* Brain teasers 1. Clock is 5:15, what's the angle between the clock hands? 2. When is the next time when the hour and minute hands are gonna be overlapping?
 * Follow-up: at what time would the minute and hour hand of a clock coincide after 5 PM?
 I finished them off quickly and correctly (in about 30 seconds). And that was the interview - fairly short and ended in ~15 minutes.
 
